@@ -1,0 +1,1 @@
+#This is simple project to demonstrate the use of Docker and machine learning model deployment.
